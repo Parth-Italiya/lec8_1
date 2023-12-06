@@ -8,7 +8,7 @@ main()
 	scanf("%d",&n);
 	
 	for(i=0; i<n; i++){
-		printf("enter count A :");
+		printf("enter element A :");
 		scanf("%d",&a[i]);
 	
 	}
