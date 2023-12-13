@@ -13,9 +13,9 @@ void main(){
 	}
 	for(i=0;i<=n-1;i++){
 		printf("\nthe element of a[%d] is: %d", i,a[i]);
-		if(a[i]!=0){
+		
 			length++;
-		}
+		
 		printf("\n\nthe lenght of array is : %d",length);
 	}
 }
